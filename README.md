@@ -1,5 +1,5 @@
 # CleanWP
-Clean all files your WordPress directory
+PHP script to clean all files in your WordPress directory from Malware codes.
 
 ## Instructions
 1. Copy file scandir.php to your WordPress directory
