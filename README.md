@@ -7,3 +7,8 @@ Simple PHP script to clean all files in your WordPress directory from Malware co
 3. First it will display all the affected files
 4. Click "Click here to replace all" to clean the files
 5. Enjoy!
+
+For now, it will only scan all index.php files.
+
+## Note
+Please backup your files first before running this script.
